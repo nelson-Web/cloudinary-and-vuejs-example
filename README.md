@@ -1,24 +1,21 @@
-# vue-cloudinary-example
+## Como subir imagenes a Cloudinary con Vue js
 
-## Project setup
-```
+En este es el repositorio del cual explique en mi Blog **Nelsonweb** donde utilzamos el metodo fetch para enviar los datos al servidor
+
+* Descargar Repositorio
+
+~~~
+git clone https://github.com/nelson-Web/cloudinary-and-vuejs-example.git
+~~~
+
+
+* Instala las dependencias
+
+~~~
 npm install
-```
+~~~
 
-### Compiles and hot-reloads for development
-```
+* Ejecuta el servidor 
+~~~
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+~~~
