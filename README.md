@@ -19,4 +19,4 @@ npm install
 ~~~
 npm run serve
 ~~~
-![imagen final](https://res.cloudinary.com/nelsonweb/image/upload/v1585275520/formulario_wundlg.png)
+![vuejs y cloudinary](https://res.cloudinary.com/nelsonweb/image/upload/v1586358273/response-cloudinary_b5df4m_gsv4li.png)
